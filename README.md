@@ -29,4 +29,9 @@ npm test
 - Linux
 - Windows
 
+### To Run Nightwatch
+- make sure you have java installed (jdk 8)
+- make sure you update your chrome
+- make sure you have the last version of npm and node
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
